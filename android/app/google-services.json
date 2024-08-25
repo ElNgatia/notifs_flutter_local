@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175035958462",
+    "project_id": "device-token-50f4e",
+    "storage_bucket": "device-token-50f4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175035958462:android:9e56780b66de86a2940aef",
+        "android_client_info": {
+          "package_name": "com.example.notifs_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE4CWQCdXB32nkXwbpT-R_RPYkhGgyIFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
